@@ -7,10 +7,10 @@
 #### See [description.pdf](https://github.com/DanielYatali/Something-like-a-Database/blob/main/Description.pdf) for more Information
 
 ## What I Learnt:
-* Array data Structure
-* Reading / Writing to files
-* C++ functions and Syntax
-* Open a URL from [Dev-C++](https://www.bloodshed.net)
+* `Array data Structure`
+* `Reading / Writing to files`
+* `C++ functions and Syntax`
+* `Open a URL from` [Dev-C++](https://www.bloodshed.net)
 
 ## Some Extra Info
 

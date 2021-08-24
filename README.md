@@ -15,4 +15,4 @@
 ## Some Extra Info
 
 * Data Created : 06/12/2020 (dd/mm/yy)
-* Purpose : Year 1 Semester 1 Final Project.
+* Purpose : Year 1 Semester 1 `COMP 1601` Final Project.

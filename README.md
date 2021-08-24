@@ -1,3 +1,5 @@
+![alt text](https://github.com/DanielYatali/Something-like-a-Database/blob/main/image.png)
+
 # Something-like-a-Database
 
 ## Very First Project

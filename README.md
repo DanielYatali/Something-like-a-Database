@@ -4,7 +4,7 @@
 
 #### Simple Database like program that reads a list of the top movies for 2020,  from IMDB's website.
 #### The data(views, rating, genre, links to trailer etc.) is stored in a data structure and used to perform various Satistical Operations and Comparisons.
-#### See [description.pdf](path%20with%20spaces/description.pdf) for more Information
+#### See [description.pdf](https://github.com/DanielYatali/Something-like-a-Database/blob/main/Description.pdf) for more Information
 
 ## What I Learnt:
 * Array data Structure

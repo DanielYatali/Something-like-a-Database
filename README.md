@@ -10,3 +10,8 @@
 * Reading / Writing to files
 * C++ functions and Syntax
 * Open a URL from [Dev-C++](https://www.bloodshed.net)
+
+## Some Extra Info
+
+* Data Created : 06/12/2020 (dd/mm/yy)
+* Purpose : Year 1 Semester 1 Final Project.
